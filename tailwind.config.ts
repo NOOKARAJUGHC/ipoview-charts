@@ -57,6 +57,21 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        ipo: {
+          orange: "hsl(var(--ipo-orange))",
+          "orange-light": "hsl(var(--ipo-orange-light))",
+          blue: "hsl(var(--ipo-blue))",
+          "blue-light": "hsl(var(--ipo-blue-light))",
+          green: "hsl(var(--ipo-green))",
+          "green-light": "hsl(var(--ipo-green-light))",
+        },
+        chart: {
+          1: "hsl(var(--chart-1))",
+          2: "hsl(var(--chart-2))",
+          3: "hsl(var(--chart-3))",
+          4: "hsl(var(--chart-4))",
+          5: "hsl(var(--chart-5))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
